@@ -17,6 +17,5 @@ public class EntityTest {
 
     @Test
     void test1() {
-
     }
 }
